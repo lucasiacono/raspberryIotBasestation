@@ -17,7 +17,7 @@ temp = []
 pilo =[]
 setup = 1
 while not (fin):
-	existeruta = os.path.exists("C:\Users\LAPIC\Google Drive\Sensor Cirrus\Setup.csv")	
+	existeruta = os.path.exists("Your path to setupfile e.g C:\Users\LAPIC\Google Drive\Sensor Cirrus\Setup.csv")	
 	if existeruta == True:
 	
 		while not(fin):
